@@ -43,7 +43,7 @@ pipeline{
           "files": [
             {
               "pattern": "target/*.jar",
-              "target": "art-doc-dev-loc"
+              "target": "art-dev-local"
             }
          ]
     }'''
